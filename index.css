@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+    margin: auto;
+    background-color: black;
+    margin-top: 10px;
+}
+input{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+table,table td,table th{
+    border-style: solid;
+    border-color:red ;
+    border-collapse: collapse;
+}
+table td{
+    color: red;
+    border-color:yellow ;
+}
+table th{
+    color: yellow;
+    padding: 10px 30px;
+}
+#namel,#agel{
+    font-weight: bolder;
+    color:yellow;
+}
+button{
+    color: red;
+    font-weight: bolder;
+    background-color: yellow;
+    padding: 10px 30px;
+
+}
